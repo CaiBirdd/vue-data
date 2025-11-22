@@ -37,7 +37,7 @@
   width: 1440px;
   flex-shrink: 0;
   background-color: #ffff;
-  margin-bottom: 49.5px;
+  margin: 60px auto 49.5px auto;
 
   .card {
     width: 1240px;
@@ -62,7 +62,6 @@
       }
 
       .title {
-
         width: 866px;
         height: 108px;
         color: #000;
